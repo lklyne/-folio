@@ -1,28 +1,87 @@
 ---
 layout: post
-title:  a post with formatting and links
+title:  week 0 - ideation
 date:   2015-03-15 16:40:16
 description: march & april, looking forward to summer
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+## Schedule  
 
-#### Hipster list
-<ul>
-	<li>brunch</li>
-	<li>fixie</li>
-	<li>raybans</li>
-	<li>messenger bag</li>
-</ul>
+#### Monday
+Attended class and went over our goals and milestones for the week
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan. 
+#### Tuesday
+All day working session centered around ideation (both individual and group activity)
 
-<hr>
-<br/>
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar. 
+#### Wednesday
+Career Fair
 
-<blockquote>
-	We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another. 
-	—Anais Nin
-</blockquote>
+#### Thursday
+Sponsor meeting (Smart Technology) for project feedback
+Appointment with Jared and Michael 
+Ideation refinement
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+#### Friday
+Creating diagrams based on sketching sessions
+Synthesis and presentation prep
+
+#### Sat/Sun
+Presentation refinement
+
+## Design Prompts  
+
+This week we ideated broadly on various design directions from our original design prompt. Based on feedback from previous phases we discussed and narrowed down our problem space into the following user needs and corresponding design prompts.
+
+#### User Needs
+Effective channels for contributing and delivery of donations
+Knowing when / how to evacuate
+Finding a way to contribute to volunteer efforts
+Knowing which stores are open after a disaster
+General situational awareness / Understanding disaster severity
+
+#### Design Prompts
+How can we help supply donors make sure their donations are needed and delivered?
+How can we help encourage and coordinate evacuation in urban areas after a natural disaster?
+How can we coordinate skilled work through volunteers after a natural disaster?
+How do you enable someone with a non-critical injury to get the help they need as quickly as possible?
+How can we help disaster survivors gain pertinent information about risks in the environment?
+
+## Ideation Sketches
+![Ideation Sketch 1](../../../img/week-0/ideationProcess1.png)
+
+We spent 15 minutes individually sketching solutions for each of the design prompts. At the end of each round we shared and explained the solutions.  
+
+After completing all the initial rounds of ideation we had a total of 53 rough design directions. We then grouped these into themes based on solution type to understand the breadth of our ideas. Finally we sketch a wildcard round to document any last minute concepts before moving on.  
+
+As a group we then voted on the strongest or most interesting concepts to move forward. These concepts were again grouped into themes which were then further developed in storyboard form.  
+
+## Ideation Methods
+
+We looked at different types of natural disasters to understand what the major differences and similarities were between events. The two events we focused on for experience maps were earthquakes and hurricanes. The resulting experiences are shown on the following slides.
+
+![Ideation Sketch 1](../../../img/week-0/ideationProcess2.png)
+
+We looked at different types of natural disasters to understand what the major differences and similarities were between events. The two events we focused on for experience maps were earthquakes and hurricanes. The resulting experiences are shown on the following slides.  
+
+We identified as many stakeholders as possible in our group session and built their relationships to another. After our group session we identified the categories of services or relationship they provide to affected individuals of a disaster. The resulting map is shown on the next slide.
+
+## Diagram Refinement
+
+After sketching and refining our ideas, we created digital assets of both the experience map and stakeholder map
+
+![Diagram Refinement](../../../img/week-0/ideationDiagrams1.png)
+
+## Storyboards
+
+![Diagram Refinement](../../../img/week-0/ideationConcepts1.png)
+
+Individual survivors have needs for communication and networks can become overloaded. These needs are not prioritized by severity meaning important messages can be buried.  
+
+Disaster survivors are frequently displaced from their homes. Many have no place to go, and must find alternative lodging. If someone is told to evacuate, there could be an increased chance of compliance if they are also suggested a destination.  
+
+Individual survivors who are injured or in dire need must seek help immediately, yet fire and police departments are frequently consumed with more pressing tasks. Taking advantage of local volunteers could speed up the process of getting help.  
+
+![Diagram Refinement](../../../img/week-0/ideationConcepts2.png)
+
+Finding up-to-date and localized information about an event is critical. Radio information is beneficial but less personalized. We envisioned a bot that could aggregate and disperse pertinent information to disaster survivors by SMS.  
+
+After infrastructure failures and supply shortages, communities are forced to be self-reliant. As outside help is non-dependable, resources and skills must be traded in order for these communities to thrive. We generated a concept for a system that matches survivor needs with donors and volunteers that can fulfill those requests.
