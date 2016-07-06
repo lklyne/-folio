@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  week 22 - ideation pt 2
-date:   2015-03-15 16:40:16
+title:  week 2 - ideation pt 2
+date:   2015-07-06 16:40:16
 description: secondary phase of ideation process
 ---
 ## Schedule  
 
 #### Monday
-Attended class and went over our goals and milestones for the week
+No class - holiday
 
 #### Tuesday
-All day working session centered around ideation (both individual and group activity)
+Concept diagrams, presentation
 
 #### Wednesday
 Career Fair
@@ -28,7 +28,6 @@ Synthesis and presentation prep
 Presentation refinement
 
 ## Design Prompts  
-
 This week we ideated broadly on various design directions from our original design prompt. Based on feedback from previous phases we discussed and narrowed down our problem space into the following user needs and corresponding design prompts.
 
 #### User Needs
@@ -46,7 +45,7 @@ How do you enable someone with a non-critical injury to get the help they need a
 How can we help disaster survivors gain pertinent information about risks in the environment?
 
 ## Ideation Sketches
-![Ideation Sketch 1](../../../img/week-0/ideationProcess1.png)
+![Ideation Sketch 1](../../../img/week-2/Idea1Diagram.png)
 
 We spent 15 minutes individually sketching solutions for each of the design prompts. At the end of each round we shared and explained the solutions.  
 
