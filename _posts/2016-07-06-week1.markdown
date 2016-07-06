@@ -10,15 +10,15 @@ description: secondary phase of ideation process
 No class - holiday
 
 #### Tuesday
+Team diagram session
 Concept diagrams, presentation
 
 #### Wednesday
-Career Fair
+Class and ideation presentation
 
 #### Thursday
 Sponsor meeting (Smart Technology) for project feedback
-Appointment with Jared and Michael 
-Ideation refinement
+Ideation refinement and final concept direction
 
 #### Friday
 Creating diagrams based on sketching sessions
@@ -44,17 +44,30 @@ How can we coordinate skilled work through volunteers after a natural disaster?
 How do you enable someone with a non-critical injury to get the help they need as quickly as possible?
 How can we help disaster survivors gain pertinent information about risks in the environment?
 
-## Ideation Sketches
+## Concept 1 - 411 BOT
 ![Ideation Sketch 1](../../../img/week-2/Idea1Diagram.png)
 
-We spent 15 minutes individually sketching solutions for each of the design prompts. At the end of each round we shared and explained the solutions.  
+#### Target User & Problem
+Rumors are a problem during disasters. So providing a direct source of information can help prevent panic, fear, or inaction. The 411 Bot provides local survivors with up to date, localized information, verified by individuals with direct access to answers.
 
-After completing all the initial rounds of ideation we had a total of 53 rough design directions. We then grouped these into themes based on solution type to understand the breadth of our ideas. Finally we sketch a wildcard round to document any last minute concepts before moving on.  
+#### How it Works
+Individuals can text 411 Bot and ask questions. The system then strategically asks individuals to provide answers backed with evidence to come to a reliable answer. Additional developments to the question are also sent to participants as they occur. Questions that have already been answered are grouped with existing information.
 
-As a group we then voted on the strongest or most interesting concepts to move forward. These concepts were again grouped into themes which were then further developed in storyboard form.  
+
+
+
+
+## Concept 2 - SUPER HAM RADIO
+![Ideation Sketch 1](../../../img/week-2/Idea2Diagram.png)
+
+xxx
+
+## Concept 3 - TRADER
+![Ideation Sketch 1](../../../img/week-2/Idea3Diagram.png)
+
+xxx
 
 ## Ideation Methods
-
 We looked at different types of natural disasters to understand what the major differences and similarities were between events. The two events we focused on for experience maps were earthquakes and hurricanes. The resulting experiences are shown on the following slides.
 
 ![Ideation Sketch 1](../../../img/week-0/ideationProcess2.png)
