@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  week 22 - ideation pt 2
+title:  week 1 - ideation
 date:   2015-03-15 16:40:16
 description: secondary phase of ideation process
 ---
