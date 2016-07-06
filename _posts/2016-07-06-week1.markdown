@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  week 0 - ideation
+title:  week 1 - ideation
 date:   2015-03-15 16:40:16
-description: first phase of ideation process
+description: secondary phase of ideation process
 ---
 ## Schedule  
 
