@@ -1,0 +1,78 @@
+---
+layout: post
+title:  week 2 - ideation pt 2
+date:   2016-07-06 16:40:00
+description: secondary phase of ideation process
+---
+## Schedule 
+
+#### Monday
+Presentation prepared and delivered in class
+
+#### Tuesday
+Second round of brainstorming
+Generation of 13 distinct directions and single pages for each concept
+
+#### Wednesday
+Class and ideation presentation to instructors and pair team
+
+#### Thursday
+Sponsor meeting (Smart Technology) for project feedback
+Ideation refinement and 2x2 matrices of ideas##
+
+#### Friday
+We did another quick ideation session, did mashups, and played ping pong
+
+## Second round of ideation 
+We conducted a second phase of ideation focusing on generating wild, outside the box solutions as well as trying to ensure the worst possible outcome.
+
+Design Prompts
+- How can we help supply donors make sure their donations are needed and delivered?
+- How can we help encourage and coordinate evacuation in urban areas after a natural disaster?
+- How can we coordinate skilled work through volunteers after a natural disaster?
+- How do you enable someone with a non-critical injury to get the help they need as quickly as possible?
+- How can we help disaster survivors gain pertinent information about risks in the environment?
+- How can we help disaster survivors quickly and efficiently clear rubble from their homes?
+- How can we help disaster survivors quickly identify fact from rumors?
+
+Worst Outcome Prompts
+- How can we ensure supply donors give as many useless supplies to the wrong people?
+- How can we convince urban dwellers to stay in their homes despite imminent danger?
+- How can we dissuade skilled workers from volunteering their efforts to people in need?
+- How can we make sure that someone with non-critical injury is put in more danger by amateur responders?
+- How can we ensure that rumors are propagated, resulting in poor decision making and increased harm?
+- How can we ensure that information does not get delivered to the people that need it?
+- How do we allow and encourage people to profit from emergency situations?
+
+![Ideation Session 2](../../../img/week-2/worst-outcome-prompts.JPG)
+![Ideation Session 2](../../../img/week-2/worst-outcome-sketch-closeup.JPG)
+
+## Concept presentation
+
+After our second round of ideation, we had over 160 ideas. 
+
+![Ideation Session 2](../../../img/week-2/worst-and-ideal-sketches.JPG)
+
+
+
+We narrowed these down to our top 13 and created single page write-ups for each. For each concept, we created a brief description, overview of the interaction model, short storyboard documenting its use, the problem it solves / what it does differently than existing technology, and how it works from a technical standpoints. 
+
+We presented these ideas in class, and had classmates provide feedback with stickies and verbally.
+
+![13 Concepts](../../../img/week-2/concepts-on-red-wall.JPG)
+
+
+## Idea grouping and organization
+
+![13 Concepts](../../../img/week-2/adam-evaluating-directions.jpg)
+
+
+We created a series of 2x2 matrices to help us better group and understand ideas.
+
+![2x2 Matrices](../../../img/week-2/evaluation-matrices.jpg)
+
+We also cut out hero images for each of the 13 ideas to try out different groupings and mashups.
+
+![Grouping](../../../img/week-2/concept-cards-on-desk-banana.JPG)
+
+See ya next week!
