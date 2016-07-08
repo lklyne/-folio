@@ -46,7 +46,7 @@ How do you enable someone with a non-critical injury to get the help they need a
 How can we help disaster survivors gain pertinent information about risks in the environment?
 
 ## Ideation Sketches
-![Ideation Sketch 1](../../../img/week-0/ideationProcess1.png)
+![Ideation Sketch 1](../../../img/week-1/ideationProcess1.png)
 
 We spent 15 minutes individually sketching solutions for each of the design prompts. At the end of each round we shared and explained the solutions.  
 
@@ -58,7 +58,7 @@ As a group we then voted on the strongest or most interesting concepts to move f
 
 We looked at different types of natural disasters to understand what the major differences and similarities were between events. The two events we focused on for experience maps were earthquakes and hurricanes. The resulting experiences are shown on the following slides.
 
-![Ideation Sketch 1](../../../img/week-0/ideationProcess2.png)
+![Ideation Sketch 1](../../../img/week-1/ideationProcess2.png)
 
 We looked at different types of natural disasters to understand what the major differences and similarities were between events. The two events we focused on for experience maps were earthquakes and hurricanes. The resulting experiences are shown on the following slides.  
 
@@ -68,11 +68,11 @@ We identified as many stakeholders as possible in our group session and built th
 
 After sketching and refining our ideas, we created digital assets of both the experience map and stakeholder map
 
-![Diagram Refinement](../../../img/week-0/ideationDiagrams1.png)
+![Diagram Refinement](../../../img/week-1/ideationDiagrams1.png)
 
 ## Storyboards
 
-![Diagram Refinement](../../../img/week-0/ideationConcepts1.png)
+![Diagram Refinement](../../../img/week-1/ideationConcepts1.png)
 
 Individual survivors have needs for communication and networks can become overloaded. These needs are not prioritized by severity meaning important messages can be buried.  
 
@@ -80,7 +80,7 @@ Disaster survivors are frequently displaced from their homes. Many have no place
 
 Individual survivors who are injured or in dire need must seek help immediately, yet fire and police departments are frequently consumed with more pressing tasks. Taking advantage of local volunteers could speed up the process of getting help.  
 
-![Diagram Refinement](../../../img/week-0/ideationConcepts2.png)
+![Diagram Refinement](../../../img/week-1/ideationConcepts2.png)
 
 Finding up-to-date and localized information about an event is critical. Radio information is beneficial but less personalized. We envisioned a bot that could aggregate and disperse pertinent information to disaster survivors by SMS.  
 
