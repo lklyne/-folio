@@ -2,7 +2,7 @@
 layout: post
 title:  week 4 - prototyping
 date:   2016-07-21
-description: paper prototyping and pil
+description: prototyping and piloting
 published: true
 ---
 ## Schedule  
