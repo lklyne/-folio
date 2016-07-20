@@ -85,9 +85,9 @@ This idea connects locals that are within a specific proximity, allowing them to
 ## Moving forward
 We have some things to work out over the coming weeks.
 
--Connect the concepts to the research
--Understanding of similar types of volunteerism and donations during natural disasters
--Outline the specific scenarios for the solutions
--Make each storyboard reflect the specific problem we are trying to solve for
--Understand the technology required
+-Connect the concepts to the research<br/>
+-Understanding of similar types of volunteerism and donations during natural disasters<br/>
+-Outline the specific scenarios for the solutions<br/>
+-Make each storyboard reflect the specific problem we are trying to solve for<br/>
+-Understand the technology required<br/>
 -What does the technological degradation look like?
