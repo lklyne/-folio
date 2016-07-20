@@ -3,7 +3,7 @@ layout: post
 title:  week 3 - ideation and prototyping
 date:   2016-07-08
 description: concept refinement and early prototyping
-published: false
+published: true
 ---
 ## Schedule  
 
