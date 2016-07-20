@@ -3,7 +3,7 @@ layout: post
 title:  week 4 - prototyping
 date:   2016-07-21
 description: paper prototyping and pil
-published: false
+published: true
 ---
 ## Schedule  
 
@@ -17,22 +17,27 @@ xx
 xx
 
 #### Thursday
+Meeting with professors to update them on our progress
 Team meeting, including our sponsor (Smart Technology) for project feedback
 
+
 #### Friday
-xx
+Creation of first paper prototype (camping trip)
+Pilot tested the paper prototype with 4 people from Startup Hall
 
 #### Sat/Sun
 xx
 
 
+## Weekly Progress
+xxx
 
-## Ideation synthesis and refinement
-We narrowed down our ideas down from 160 to the top three we wanted to explore further. The three ideas below all have different levels of hardware and software engagment, relative to our problem space.
+## Prototype 1 - Camping Trip
+![Prototype 1](../../../img/week-4/prototypeList1.jpg)<br/>
+![Prototype 1](../../../img/week-4/prototypeList2.jpg)<br/>
+![Prototype 1](../../../img/week-4/prototypeList3.jpg)<br/>
 
-## Concept 1 - 411 BOT
-![Ideation Sketch 1](../../../img/week-3/Idea1DiagramHero.png)<br/>
-An AI bot for vetting answers and sharing information via SMS
+xxx
 
 #### Target User & Problem
 Rumors are a problem during disasters. So providing a direct source of information can help prevent panic, fear, or inaction. The 411 Bot provides local survivors with up to date, localized information, verified by individuals with direct access to answers.
@@ -45,37 +50,6 @@ Individuals can text 411 Bot and ask questions. The system then strategically as
 #### Storyboard
 ![Ideation Sketch 1](../../../img/week-3/Idea1Storyboard.png)
 
-
-## Concept 2 - SUPER HAM RADIO
-![Ideation Sketch 2](../../../img/week-3/Idea2DiagramHero.png)
-A two-way communication device using smart phone and radio technology.
-
-#### Target User & Problem
-After a large scale disaster, communication infrastructure is frequently compromised. This problem is compounded by the fact that there is an increased need to communicate, meaning what remains of the communication infrastructure becomes overloaded. Local survivors need to communicate with each other to find resources, understand the situation, and organize. This device facilitates this communication between locals, especially those in organizational roles, when cell networks are down.
-
-![Ideation Sketch 2](../../../img/week-3/Idea2Diagram.png)
-
-#### How it Works
-A two way radio is augmented with hardware that can interface with a smartphone. The on-board hardware takes information from a smartphone, such as text, and converts it into a format that can be transmitted over radio. A nearby radio receives this information, decodes it, and displays or relays the message. The radio also has hardware to generate power, such as a solar panel or hand crank.
-
-#### Storyboard
-![Ideation Sketch 2](../../../img/week-3/Idea2Storyboard.png)
-
-
-## Concept 3 - TRADER
-![Ideation Sketch 3](../../../img/week-3/Idea3DiagramHero.png)
-Connecting people who need, with people who have.
-
-#### Target User & Problem
-This allows locals a real-time channel for resource sharing. Currently, there’s not a way to keep track of inventory for donations, which can lead to over donating, under donating, or donations that aren’t needed.
-
-![Ideation Sketch 3](../../../img/week-3/Idea3Diagram.png)
-
-#### How it Works
-This idea connects locals that are within a specific proximity, allowing them to share resources or supplies after a disaster. This app allows users to define their need or are willing to gift supplies. Once a donor is connected to someone who has requested supplies, the donor will deliver the supplies.
-
-#### Storyboard
-![Ideation Sketch 3](../../../img/week-3/Idea3Storyboard.png)
 
 
 ## Moving forward
