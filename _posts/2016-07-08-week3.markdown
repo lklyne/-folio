@@ -46,6 +46,7 @@ Rumors are a problem during disasters. So providing a direct source of informati
 #### How it Works
 Individuals can text 411 Bot and ask questions. The system then strategically asks individuals to provide answers backed with evidence to come to a reliable answer. Additional developments to the question are also sent to participants as they occur. Questions that have already been answered are grouped with existing information.
 
+#### Storyboard
 ![Ideation Sketch 1](../../../img/week-3/Idea1Storyboard.png)
 
 
@@ -61,6 +62,7 @@ After a large scale disaster, communication infrastructure is frequently comprom
 #### How it Works
 A two way radio is augmented with hardware that can interface with a smartphone. The on-board hardware takes information from a smartphone, such as text, and converts it into a format that can be transmitted over radio. A nearby radio receives this information, decodes it, and displays or relays the message. The radio also has hardware to generate power, such as a solar panel or hand crank.
 
+#### Storyboard
 ![Ideation Sketch 2](../../../img/week-3/Idea2Storyboard.png)
 
 
@@ -76,6 +78,7 @@ This allows locals a real-time channel for resource sharing. Currently, there’
 #### How it Works
 This idea connects locals that are within a specific proximity, allowing them to share resources or supplies after a disaster. This app allows users to define their need or are willing to gift supplies. Once a donor is connected to someone who has requested supplies, the donor will deliver the supplies.
 
+#### Storyboard
 ![Ideation Sketch 3](../../../img/week-3/Idea3Storyboard.png)
 
 
