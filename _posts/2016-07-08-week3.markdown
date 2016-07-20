@@ -35,7 +35,7 @@ Continue secondary research
 We narrowed down our ideas down from 160 to the top three we wanted to explore further. The three ideas below all have different levels of hardware and software engagment, relative to our problem space.
 
 ## Concept 1 - 411 BOT
-![Ideation Sketch 1](../../../img/week-3/Idea1DiagramHero.png)
+![Ideation Sketch 1](../../../img/week-3/Idea1DiagramHero.png)<br/>
 An AI bot for vetting answers and sharing information via SMS
 
 #### Target User & Problem
