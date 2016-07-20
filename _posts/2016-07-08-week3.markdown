@@ -15,6 +15,8 @@ Finalized our ideation refinement presentation
 
 #### Wednesday
 Presentation of our top three ideas
+Classmates provide feedback both verbally and in written form
+
 
 #### Thursday
 Team meeting - finalize which idea to move forward with
@@ -27,7 +29,9 @@ Create a game plan for the coming weeks
 #### Sat/Sun
 Continue secondary research
 
-## Top three concepts
+
+
+## Ideation synthesis and refinement
 We narrowed down our ideas down from 160 to the top three we wanted to explore further. The three ideas below all have different levels of hardware and software engagment, relative to our problem space.
 
 ## Concept 1 - 411 BOT
@@ -38,68 +42,49 @@ An AI bot for vetting answers and sharing information via SMS
 Rumors are a problem during disasters. So providing a direct source of information can help prevent panic, fear, or inaction. The 411 Bot provides local survivors with up to date, localized information, verified by individuals with direct access to answers.
 
 ![Ideation Sketch 1](../../../img/week-3/Idea1Diagram.png)
+![Ideation Sketch 1](../../../img/week-3/Idea1Storyboard.png)
 
 #### How it Works
 Individuals can text 411 Bot and ask questions. The system then strategically asks individuals to provide answers backed with evidence to come to a reliable answer. Additional developments to the question are also sent to participants as they occur. Questions that have already been answered are grouped with existing information.
 
 ## Concept 2 - SUPER HAM RADIO
-![Ideation Sketch 1](../../../img/week-3/Idea2DiagramHero.png)
+![Ideation Sketch 2](../../../img/week-3/Idea2DiagramHero.png)
 A two-way communication device using smart phone and radio technology.
 
 #### Target User & Problem
 After a large scale disaster, communication infrastructure is frequently compromised. This problem is compounded by the fact that there is an increased need to communicate, meaning what remains of the communication infrastructure becomes overloaded. Local survivors need to communicate with each other to find resources, understand the situation, and organize. This device facilitates this communication between locals, especially those in organizational roles, when cell networks are down.
 
-![Ideation Sketch 1](../../../img/week-3/Idea2Diagram.png)
+![Ideation Sketch 2](../../../img/week-3/Idea2Diagram.png)
+![Ideation Sketch 1](../../../img/week-3/Idea2Storyboard.png)
 
 #### How it Works
 A two way radio is augmented with hardware that can interface with a smartphone. The on-board hardware takes information from a smartphone, such as text, and converts it into a format that can be transmitted over radio. A nearby radio receives this information, decodes it, and displays or relays the message. The radio also has hardware to generate power, such as a solar panel or hand crank.
 
 ## Concept 3 - TRADER
-![Ideation Sketch 1](../../../img/week-3/Idea3DiagramHero.png)
+![Ideation Sketch 3](../../../img/week-3/Idea3DiagramHero.png)
 Connecting people who need, with people who have.
 
 #### Target User & Problem
 This allows locals a real-time channel for resource sharing. Currently, there’s not a way to keep track of inventory for donations, which can lead to over donating, under donating, or donations that aren’t needed.
 
-![Ideation Sketch 1](../../../img/week-3/Idea3Diagram.png)
+![Ideation Sketch 3](../../../img/week-3/Idea3Diagram.png)
+![Ideation Sketch 3](../../../img/week-3/Idea3Storyboard.png)
 
 #### How it Works
 This idea connects locals that are within a specific proximity, allowing them to share resources or supplies after a disaster. This app allows users to define their need or are willing to gift supplies. Once a donor is connected to someone who has requested supplies, the donor will deliver the supplies.
 
 
+## Moving forward
+We have 
 
-
-
-
-
-
-## Ideation Methods
-We looked at different types of natural disasters to understand what the major differences and similarities were between events. The two events we focused on for experience maps were earthquakes and hurricanes. The resulting experiences are shown on the following slides.
-
-![Ideation Sketch 1](../../../img/week-0/ideationProcess2.png)
-
-We looked at different types of natural disasters to understand what the major differences and similarities were between events. The two events we focused on for experience maps were earthquakes and hurricanes. The resulting experiences are shown on the following slides.  
-
-We identified as many stakeholders as possible in our group session and built their relationships to another. After our group session we identified the categories of services or relationship they provide to affected individuals of a disaster. The resulting map is shown on the next slide.
-
-## Diagram Refinement
-
-After sketching and refining our ideas, we created digital assets of both the experience map and stakeholder map
-
-![Diagram Refinement](../../../img/week-0/ideationDiagrams1.png)
-
-## Storyboards
-
-![Diagram Refinement](../../../img/week-0/ideationConcepts1.png)
-
-Individual survivors have needs for communication and networks can become overloaded. These needs are not prioritized by severity meaning important messages can be buried.  
-
-Disaster survivors are frequently displaced from their homes. Many have no place to go, and must find alternative lodging. If someone is told to evacuate, there could be an increased chance of compliance if they are also suggested a destination.  
-
-Individual survivors who are injured or in dire need must seek help immediately, yet fire and police departments are frequently consumed with more pressing tasks. Taking advantage of local volunteers could speed up the process of getting help.  
-
-![Diagram Refinement](../../../img/week-0/ideationConcepts2.png)
-
-Finding up-to-date and localized information about an event is critical. Radio information is beneficial but less personalized. We envisioned a bot that could aggregate and disperse pertinent information to disaster survivors by SMS.  
-
-After infrastructure failures and supply shortages, communities are forced to be self-reliant. As outside help is non-dependable, resources and skills must be traded in order for these communities to thrive. We generated a concept for a system that matches survivor needs with donors and volunteers that can fulfill those requests.
+Connect the concepts to the research
+We reflected back on our research and began a new round of secondary research to bolster our understanding of similar types of volunteerism and donations that have occurred in past natural disasters.
+Outline the specific scenarios for the solutions
+We tried to make each storyboard reflect the specific problem we are trying to solve for. The illustrations outline the technological requirements as well as key stakeholders for each system.
+Descriptions need to be more clear
+We discussed our concepts to arrive at more concrete scenarios of use.
+Understand the technology required
+We started to look into tutorials in how to set up our own AI programs with TensorFlow
+What does the technological degradation look like?
+For our concepts that primarily use cellular networks we have planned
+for bluetooth mesh network fallbacks.
