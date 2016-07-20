@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  week 2 - ideation pt 2
-date:   2016-07-06 16:40:00
+date:   2016-07-06
 description: secondary phase of ideation process
 ---
 ## Schedule 
