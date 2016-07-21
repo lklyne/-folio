@@ -1,0 +1,32 @@
+---
+layout: post
+title:  week 5 - prototyping
+date:   2016-07-27
+description: prototyping and piloting
+published: true
+---
+## Schedule  
+
+#### Monday
+
+#### Tuesday
+
+#### Wednesday
+Team consultation with the Safe Walk team  
+  
+In the team consultation both our team and Safe Walk shared and gave feedback on our prototyping plan. 
+The Safe Walk team surprisingly had a similar direction of a location based social application. 
+Part of the feedback we received was to consider if our design could belong to an existing social platform.
+ Additionally, they had difficulty understanding how the design related back to our topic. 
+
+
+#### Thursday
+
+#### Friday
+
+#### Sat/Sun
+
+#### This weeks goal
+
+
+## Moving forward

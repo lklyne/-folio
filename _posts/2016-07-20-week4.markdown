@@ -8,25 +8,37 @@ published: true
 ## Schedule  
 
 #### Monday
-xx
+Prototyping Lecture  
 
 #### Tuesday
-Created additional storyboards to define the scenarios of use that we want our design to support
-![Scenario Storyboards](../../../img/week-4/scenario_storyboard.png)
+Created additional storyboards to define the scenarios of use that we want our design to support.
+
+Scenario Storyboards included  
+- Going Camping  
+- Moving Out of a House  
+- Finding a Gas Station  
+![Scenario Storyboards](../../../img/week-4/scenario_storyboards.png)
 
 #### Wednesday
-xx
+Michael presents on Skylark prototyping process.
 
 #### Thursday
-Meeting with professors to update them on our progress
-Team meeting, including our sponsor (Smart Technology) for project feedback
+Meet with professors to update them on our progress.  
+Team meeting, including our sponsor (Andy Cargile, Smart Technology) for project feedback.  
+
+We explained to Andy that the types of altruistic behaviors that we wanted to support. Having research other location 
+based communications applications like YikYak, we noticed that anonymity seemed to have a correlation with negative social behavior. 
+Andy suggested that we research sociology trust frameworks to guide our designs. 
+  
+One particularly interesting research paper we found after the conversation with our sponsor proposed risk as being the mirror image of trust.
+ In other words, perceiving high risk in an interaction with a person is equivalent to low trust in the person. 
 
 #### Friday
-Creation of first paper prototype (camping trip)
-Pilot tested the paper prototype with 4 people from Startup Hall
+Creation of our first paper prototype (camping trip).  
+Pilot tested the paper prototype with 4 people from Startup Hall.  
 
 #### Sat/Sun
-Discussion on different interaction models - group formation, information gathering
+Discussed different interaction models - group formation, information gathering
 
 
 #### This weeks goal
@@ -58,11 +70,6 @@ We expect that online collaborative tools can improve resources and information 
 
 
 ## Moving forward
-We have some things to work out over the coming weeks.
-
--Connect the concepts to the research<br/>
--Understanding of similar types of volunteerism and donations during natural disasters<br/>
--Outline the specific scenarios for the solutions<br/>
--Make each storyboard reflect the specific problem we are trying to solve for<br/>
--Understand the technology required<br/>
--What does the technological degradation look like?
+-Make corrections to our prototype protocols from our feedback and observations from our pilots<br/>
+-Start recruiting and running our prototyping activities<br/>
+-Develop additional prototyping activities for other research questions we have<br/>
