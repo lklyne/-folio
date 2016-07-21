@@ -20,7 +20,9 @@ Scenario Storyboards included
 ![Scenario Storyboards](../../../img/week-4/scenario_storyboards.png)
 
 #### Wednesday
-Michael presents on Skylark prototyping process.
+Attended class and went over our goals and milestones for the week. Michael presented on Skylark prototyping process.
+  
+Outlined possible prototypes and research questions we need answered  
 
 #### Thursday
 Meet with professors to update them on our progress.  
@@ -41,14 +43,21 @@ Pilot tested the paper prototype with 4 people from Startup Hall.
 Discussed different interaction models - group formation, information gathering
 
 
-#### This weeks goal
+## This weeks goal
 To create a prototyping plan and start building the different prototyping activities. In doing this, we hope to understand the behavior and mindset of people, both in a group, and as an individual seeking information.
 
 ## Prototype 1 - Supply & Collaboration
+
+#### Research Question
+How can we improve resource and information sharing within a local community?
+
+#### Design Hypothesis
+We expect that online collaborative tools can improve resources and information sharing that currently occurs more organically. 
+
 ![Prototype 1](../../../img/week-4/prototypeList1.png)
 
 #### Activity Summary + Protocol
-A group-based planning and supply activity. A group of 4-6 people will be asked to coordinate a camping trip. In the pilot version of the activity, the group was asked to complete this task with one member acting as the group leader. The leader was given a short checklist and asked to document the planning process using pen and paper.
+We planned a group-based planning and supply activity. A group of 4-6 people will be asked to coordinate a camping trip. In the pilot version of the activity, the group was asked to complete this task with one member acting as the group leader. The leader was given a short checklist and asked to document the planning process using pen and paper.
 
 -Introduce all group members, frame the purpose of the activity and the common goal.<br/>
 -Provide prompts to facilitate group discussion and group consensus.<br/>
@@ -57,19 +66,15 @@ A group-based planning and supply activity. A group of 4-6 people will be asked 
 
 The activity will be documented naturally, as the participants will create a group chat and document. At the end of the activity, key points from the de-brief will be recorded with notes. 
 
-#### Research Question
-How can we improve resource and information sharing within a local community?
-
-#### Design Hypothesis
-We expect that online collaborative tools can improve resources and information sharing that currently occurs more organically. 
-
 #### Participant Observation
 ![Prototype 1](../../../img/week-4/prototypeList2.png)
 ![Prototype 1](../../../img/week-4/prototypeList3.png)
-
-
 
 ## Moving forward
 -Make corrections to our prototype protocols from our feedback and observations from our pilots<br/>
 -Start recruiting and running our prototyping activities<br/>
 -Develop additional prototyping activities for other research questions we have<br/>
+
+Over the next week, we'll create additional prototypes to understand different aspects of the solution space. 
+The two prototypes we are targeting are around privacy and how groups form. 
+The findings from these three should be an appropriate starting point for our high fidelity mock-up.
