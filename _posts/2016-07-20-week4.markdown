@@ -13,7 +13,7 @@ xx
 #### Tuesday
 Created additional storyboards to define the scenarios of use that we want our design to support.
 
-![Scenario Storyboards](../../../img/week-4/scenario_storyboard.png)
+![Scenario Storyboards](../../../img/week-4/scenario_storyboard.jpg)
 
 #### Wednesday
 xx
@@ -34,6 +34,7 @@ Discussion on different interaction models - group formation, information gather
 To create a prototyping plan and start building the different prototyping activities. 
 
 ## Prototype 1 - Camping Trip
+
 ![Prototype 1](../../../img/week-4/prototypeList1.jpg)<br/>
 ![Prototype 1](../../../img/week-4/prototypeList2.jpg)<br/>
 ![Prototype 1](../../../img/week-4/prototypeList3.jpg)<br/>
