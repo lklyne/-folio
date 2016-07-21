@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  week 4 - prototyping
-date:   2016-07-21
+date:   2016-07-20
 description: prototyping and piloting
 published: true
 ---
@@ -11,7 +11,9 @@ published: true
 xx
 
 #### Tuesday
-xx
+Created additional storyboards to define the scenarios of use that we want our design to support.
+
+![Scenario Storyboards](../../../img/week-4/scenario_storyboard.png)
 
 #### Wednesday
 xx
