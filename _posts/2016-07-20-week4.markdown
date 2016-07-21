@@ -25,8 +25,8 @@ Attended class and went over our goals and milestones for the week. Michael pres
 Outlined possible prototypes and research questions we need answered  
 
 #### Thursday
-Meet with professors to update them on our progress.  
-Team meeting, including our sponsor (Andy Cargile, Smart Technology) for project feedback.  
+Met with professors to update them on our progress.  
+Met with our sponsor (Andy Cargile, Smart Technology) for project feedback.  
 
 We explained to Andy that the types of altruistic behaviors that we wanted to support. Having research other location 
 based communications applications like YikYak, we noticed that anonymity seemed to have a correlation with negative social behavior. 
@@ -36,7 +36,7 @@ One particularly interesting research paper we found after the conversation with
  In other words, perceiving high risk in an interaction with a person is equivalent to low trust in the person. 
 
 #### Friday
-Creation of our first paper prototype (camping trip).  
+Created our first paper prototype (camping trip).  
 Pilot tested the paper prototype with 4 people from Startup Hall.  
 
 #### Sat/Sun
