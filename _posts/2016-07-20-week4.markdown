@@ -12,7 +12,7 @@ xx
 
 #### Tuesday
 Created additional storyboards to define the scenarios of use that we want our design to support
-![Scenario Storyboards](../../../img/week-4/scenario_storyboard.png)
+![Scenario Storyboards](../../../img/week-4/scenario_storyboards.png)
 
 #### Wednesday
 xx
