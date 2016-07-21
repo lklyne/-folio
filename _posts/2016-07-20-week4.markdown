@@ -8,14 +8,14 @@ published: true
 ## Schedule  
 
 #### Monday
-xx
+Attended class and went over our goals and milestones for the week
 
 #### Tuesday
 Created additional storyboards to define the scenarios of use that we want our design to support
 ![Scenario Storyboards](../../../img/week-4/scenario_storyboards.png)
 
 #### Wednesday
-xx
+Outlined possible prototypes and research questions we need answered
 
 #### Thursday
 Meeting with professors to update them on our progress
@@ -56,13 +56,5 @@ We expect that online collaborative tools can improve resources and information 
 ![Prototype 1](../../../img/week-4/prototypeList3.png)
 
 
-
 ## Moving forward
-We have some things to work out over the coming weeks.
-
--Connect the concepts to the research<br/>
--Understanding of similar types of volunteerism and donations during natural disasters<br/>
--Outline the specific scenarios for the solutions<br/>
--Make each storyboard reflect the specific problem we are trying to solve for<br/>
--Understand the technology required<br/>
--What does the technological degradation look like?
+Over the next week, we'll create additional prototypes to understand different aspects of the solution space. The two prototypes we are targeting are around privacy and how groups form. The findings from these three should be an appropriate starting point for our high fidelity mock-up.
