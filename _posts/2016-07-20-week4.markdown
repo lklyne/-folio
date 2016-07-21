@@ -29,7 +29,7 @@ Pilot tested the paper prototype with 4 people from Startup Hall
 Discussion on different interaction models - group formation, information gathering
 
 
-## This weeks goal
+#### This weeks goal
 To create a prototyping plan and start building the different prototyping activities. In doing this, we hope to understand the behavior and mindset of people, both in a group, and as an individual seeking information.
 
 ## Prototype 1 - Supply & Collaboration
@@ -50,6 +50,8 @@ How can we improve resource and information sharing within a local community?
 
 #### Design Hypothesis
 We expect that online collaborative tools can improve resources and information sharing that currently occurs more organically. 
+
+#### Participant Observation
 ![Prototype 1](../../../img/week-4/prototypeList2.png)
 ![Prototype 1](../../../img/week-4/prototypeList3.png)
 
