@@ -22,17 +22,16 @@ xx
 Meeting with professors to update them on our progress
 Team meeting, including our sponsor (Smart Technology) for project feedback
 
-
 #### Friday
 Creation of first paper prototype (camping trip)
 Pilot tested the paper prototype with 4 people from Startup Hall
 
 #### Sat/Sun
-xx
+Discussion on different interaction models - group formation, information gathering
 
 
-## Weekly Progress
-xxx
+## This weeks goal
+To create a prototyping plan and start building the different prototyping activities. 
 
 ## Prototype 1 - Camping Trip
 ![Prototype 1](../../../img/week-4/prototypeList1.jpg)<br/>
