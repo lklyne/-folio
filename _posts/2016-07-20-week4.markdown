@@ -12,7 +12,6 @@ xx
 
 #### Tuesday
 Created additional storyboards to define the scenarios of use that we want our design to support
-
 ![Scenario Storyboards](../../../img/week-4/scenario_storyboard.jpg)
 
 #### Wednesday
@@ -31,15 +30,13 @@ Discussion on different interaction models - group formation, information gather
 
 
 ## This weeks goal
-To create a prototyping plan and start building the different prototyping activities. 
+To create a prototyping plan and start building the different prototyping activities. In doing this, we hope to understand the behavior and mindset of people, both in a group, and as an individual seeking information.
 
 ## Prototype 1 - Camping Trip
-
 ![Prototype 1](../../../img/week-4/prototypeList1.jpg)<br/>
 ![Prototype 1](../../../img/week-4/prototypeList2.png)<br/>
 ![Prototype 1](../../../img/week-4/prototypeList3.jpg)<br/>
 
-xxx
 
 #### Target User & Problem
 Rumors are a problem during disasters. So providing a direct source of information can help prevent panic, fear, or inaction. The 411 Bot provides local survivors with up to date, localized information, verified by individuals with direct access to answers.
