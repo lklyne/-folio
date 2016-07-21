@@ -12,7 +12,7 @@ xx
 
 #### Tuesday
 Created additional storyboards to define the scenarios of use that we want our design to support
-![Scenario Storyboards](../../../img/week-4/scenario_storyboard.jpg)
+![Scenario Storyboards](../../../img/week-4/scenario_storyboard.png)
 
 #### Wednesday
 xx
@@ -32,22 +32,26 @@ Discussion on different interaction models - group formation, information gather
 ## This weeks goal
 To create a prototyping plan and start building the different prototyping activities. In doing this, we hope to understand the behavior and mindset of people, both in a group, and as an individual seeking information.
 
-## Prototype 1 - Camping Trip
-![Prototype 1](../../../img/week-4/prototypeList1.jpg)<br/>
-![Prototype 1](../../../img/week-4/prototypeList2.png)<br/>
-![Prototype 1](../../../img/week-4/prototypeList3.jpg)<br/>
+## Prototype 1 - Supply & Collaboration
+![Prototype 1](../../../img/week-4/prototypeList1.png)
 
+#### Activity Summary + Protocol
+A group-based planning and supply activity. A group of 4-6 people will be asked to coordinate a camping trip. In the pilot version of the activity, the group was asked to complete this task with one member acting as the group leader. The leader was given a short checklist and asked to document the planning process using pen and paper.
 
-#### Target User & Problem
-Rumors are a problem during disasters. So providing a direct source of information can help prevent panic, fear, or inaction. The 411 Bot provides local survivors with up to date, localized information, verified by individuals with direct access to answers.
+-Introduce all group members, frame the purpose of the activity and the common goal.<br/>
+-Provide prompts to facilitate group discussion and group consensus.<br/>
+-Ask participants to plan their camping trip via provided tools.<br/>
+-De-brief with group about the overall experience.<br/>
 
-![Ideation Sketch 1](../../../img/week-3/Idea1Diagram.png)
+The activity will be documented naturally, as the participants will create a group chat and document. At the end of the activity, key points from the de-brief will be recorded with notes. 
 
-#### How it Works
-Individuals can text 411 Bot and ask questions. The system then strategically asks individuals to provide answers backed with evidence to come to a reliable answer. Additional developments to the question are also sent to participants as they occur. Questions that have already been answered are grouped with existing information.
+#### Research Question
+How can we improve resource and information sharing within a local community?
 
-#### Storyboard
-![Ideation Sketch 1](../../../img/week-3/Idea1Storyboard.png)
+#### Design Hypothesis
+We expect that online collaborative tools can improve resources and information sharing that currently occurs more organically. 
+![Prototype 1](../../../img/week-4/prototypeList2.png)
+![Prototype 1](../../../img/week-4/prototypeList3.png)
 
 
 
