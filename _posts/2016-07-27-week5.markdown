@@ -19,9 +19,15 @@ by discussing as a group how we could incorporate prototyping activities that co
  might be integrate well with our design.
 
 #### Tuesday
+Development of a natural disaster based prototyping activity
+
+We modeled our communication tool concept using Slack. During the study our participant was asked to perform a scavenger 
+hunt style activity using our prototype as their only means of of communication. 
+ 
+ 
 
 #### Wednesday
-
+Presentation of our prototyping methods and research plans
 
 #### Thursday
 
