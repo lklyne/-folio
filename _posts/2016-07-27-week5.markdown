@@ -34,9 +34,25 @@ Presentation of our prototyping methods and research plans
 #### Friday
 Conducted our scavenger hunt and user profile card sorting activities with two participants.  
 
+
 #### Sat/Sun
 
 #### This weeks goal
+We created three prototypes to evaluate our research questions and hypotheses. We wanted to uncover barriers for users and better understand key features that set our platform apart from others that already exist on the market.
+
+
+## Prototype 1 - Supply & Collaboration
+
+#### Research Question + Activity Summary
+How comfortable are people sharing personal information about themselves & how does this influence trust?
+
+-Card Sorting<br/>
+-Provide prompts to facilitate group discussion and group consensus.<br/>
+-Ask participants to plan their camping trip via provided tools.<br/>
+-De-brief with group about the overall experience.<br/>
+
+The activity will be documented naturally, as the participants will create a group chat and document. At the end of the activity, key points from the de-brief will be recorded with notes. 
+
 
 
 ## Moving forward
