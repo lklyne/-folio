@@ -83,13 +83,8 @@ In the next round of this activity, the group will be asked to collaborate via a
 -Exit interview<br/>
 
 #### Participant Observation
-<<<<<<< Updated upstream
 ![Prototype 1](../../../img/week-5/google-doc.png)
 ![Prototype 1](../../../img/week-5/camping-trip.jpg)
-=======
-![Prototype 2](../../../img/week-5/lizzie2.png)
-![Prototype 2](../../../img/week-5/ashley2.png)
->>>>>>> Stashed changes
 
 #### What we saw
 With remote resource planning, there are lots of small bits of information that need group consensus or multiple individual responses.
