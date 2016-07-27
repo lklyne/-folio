@@ -16,7 +16,11 @@ Part of the feedback we received was to consider if our design could belong to a
 Additionally, they had difficulty understanding how the design related back to our topic. We responded to the feedback
 by discussing as a group how we could incorporate prototyping activities that could better evaluate and clarify our 
  thinking on how our concept would work in a disaster scenario. We also discussed how which existing social platforms
- might be integrate well with our design. 
+ might be integrate well with our design.
+
+ After class we piloted our scavenger hunt and profile card sort activities with a classmate.
+
+ ![Prototype 1](../../../img/week-5/steven-pilot.jpg)
 
 #### Tuesday
 Development of a natural disaster based prototyping activity
