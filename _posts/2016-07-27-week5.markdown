@@ -81,8 +81,8 @@ In the next round of this activity, the group will be asked to collaborate via a
 -Exit interview<br/>
 
 #### Participant Observation
-![Prototype 1](../../../img/week-5/google-doc.png)
-![Prototype 1](../../../img/week-5/camping-trip.jpg)
+![Prototype 1](../../../img/week-5/google-docs.png)
+![Prototype 1](../../../img/week-5/camping-activity.jpg)
 
 #### What we saw
 People prefer reaching out to friends and neighbors before strangers when looking for help.
