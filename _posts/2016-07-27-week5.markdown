@@ -16,7 +16,11 @@ Part of the feedback we received was to consider if our design could belong to a
 Additionally, they had difficulty understanding how the design related back to our topic. We responded to the feedback
 by discussing as a group how we could incorporate prototyping activities that could better evaluate and clarify our 
  thinking on how our concept would work in a disaster scenario. We also discussed how which existing social platforms
- might be integrate well with our design. 
+ might be integrate well with our design.
+
+ After class we piloted our scavenger hunt and profile card sort activities with a classmate.
+
+ ![Prototype 1](../../../img/week-5/steven-pilot.jpg)
 
 #### Tuesday
 Development of a natural disaster based prototyping activity
@@ -41,15 +45,24 @@ Conducted our scavenger hunt and user profile card sorting activities with two p
 We created three prototypes to evaluate our research questions and hypotheses. We wanted to uncover barriers for users and better understand key features that set our platform apart from others that already exist on the market.
 
 
-## Prototype 1 - Supply & Collaboration
+## Prototype 1 - Privacy & Trust
 
 #### Research Question + Activity Summary
-How comfortable are people sharing personal information about themselves & how does this influence trust?
+Is there a balance between information that people are comfortable disclosing and information that is required to evaluate trustworthiness?
 
--Card sorting<br/>
--Think aloud<br/>
--Asked probing questions<br/>
+-Evaluation of example profile page examples under different contexts of use<br/>
+-Card sorting by personal information sensitivity and importance to evaluate trust<br/>
 -Exit interview<br/>
+
+#### Participant Observation
+![Prototype 1](../../../img/week-5/lizzie2.png)
+![Prototype 1](../../../img/week-5/ashley2.png)
+
+#### What we saw
+Information about mutual friends is great for building trust, and sharing this information doesn’t compromise privacy.
+
+#### Why this is important and what we plan to do about it
+Allow for a public and private profile, and include mutual friends in the public profile.
 
 ## Prototype 2 - Supply & Collaboration
 
@@ -67,7 +80,17 @@ In the next round of this activity, the group will be asked to collaborate via a
 -Group debrief<br/>
 -Exit interview<br/>
 
-## Prototype 3 - Supply & Collaboration
+#### Participant Observation
+![Prototype 1](../../../img/week-5/xxx.png)
+![Prototype 1](../../../img/week-5/xxx.png)
+
+#### What we saw
+People prefer reaching out to friends and neighbors before strangers when looking for help.
+
+#### Why this is important and what we plan to do about it
+Highlight strong and loose connections that are nearby in addition to showing strangers.
+
+## Prototype 3 - Location-Based Group Chat
 
 #### Research Question + Activity Summary
 Do individuals feel more comfortable requesting favors from strangers in close proximity to strangers that are further away?
@@ -76,5 +99,25 @@ Do individuals feel more comfortable requesting favors from strangers in close p
 -Think aloud<br/>
 -Exit interview<br/>
 
+#### Participant Observation
+![Prototype 1](../../../img/week-5/xxx.png)
+![Prototype 1](../../../img/week-5/xxx.png)
+
+#### What we saw
+Personal information is less important when evaluating crowd-sourced information.
+
+#### Why this is important and what we plan to do about it
+Channels that are only information seeking should display only public user profiles.
+
 
 ## Moving forward
+In the coming weeks, we plan to do the following tasks, in this order:
+
+-Wireframes & feature refinement<br/>
+-User Testing<br/>
+-Hi-fidelity Prototype<br/>
+-User Testing<br/>
+-Refinement<br/>
+-Video<br/>
+-Presentation<br/>
+
