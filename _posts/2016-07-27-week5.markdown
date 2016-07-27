@@ -48,16 +48,15 @@ We created three prototypes to evaluate our research questions and hypotheses. W
 ## Prototype 1 - Privacy & Trust
 
 #### Research Question + Activity Summary
-How comfortable are people sharing personal information about themselves & how does this influence trust?
+Is there a balance between information that people are comfortable disclosing and information that is required to evaluate trustworthiness?
 
--Card sorting<br/>
--Think aloud<br/>
--Asked probing questions<br/>
+-Evaluation of example profile page examples under different contexts of use<br/>
+-Card sorting by personal information sensitivity and importance to evaluate trust<br/>
 -Exit interview<br/>
 
 #### Participant Observation
-![Prototype 1](../../../img/week-5/xxx.png)
-![Prototype 1](../../../img/week-5/xxx.png)
+![Prototype 1](../../../img/week-5/lizzie2.png)
+![Prototype 1](../../../img/week-5/ashley2.png)
 
 #### What we saw
 Information about mutual friends is great for building trust, and sharing this information doesn’t compromise privacy.
