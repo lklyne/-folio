@@ -46,13 +46,28 @@ We created three prototypes to evaluate our research questions and hypotheses. W
 #### Research Question + Activity Summary
 How comfortable are people sharing personal information about themselves & how does this influence trust?
 
--Card Sorting<br/>
--Provide prompts to facilitate group discussion and group consensus.<br/>
--Ask participants to plan their camping trip via provided tools.<br/>
--De-brief with group about the overall experience.<br/>
+-Card sorting<br/>
+-Think aloud<br/>
+-Asked probing questions<br/>
+-Exit interview<br/>
 
-The activity will be documented naturally, as the participants will create a group chat and document. At the end of the activity, key points from the de-brief will be recorded with notes. 
+## Prototype 2 - Supply & Collaboration
 
+#### Research Question + Activity Summary
+How can we improve resource and information sharing within a local community & where do existing tools fall short in collaborative decision making?
+
+-Collaborative group activity<br/>
+-Group debrief<br/>
+-Exit interview<br/>
+
+## Prototype 3 - Supply & Collaboration
+
+#### Research Question + Activity Summary
+Do individuals feel more comfortable requesting favors from strangers in close proximity to strangers that are further away?
+
+-Individual scavenger hunt activity<br/>
+-Think aloud<br/>
+-Exit interview<br/>
 
 
 ## Moving forward
