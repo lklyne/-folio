@@ -51,6 +51,10 @@ How comfortable are people sharing personal information about themselves & how d
 -Asked probing questions<br/>
 -Exit interview<br/>
 
+#### Participant Observation
+![Prototype 1](../../../img/week-5/xxx.png)
+![Prototype 1](../../../img/week-5/xxx.png)
+
 #### What we saw
 Information about mutual friends is great for building trust, and sharing this information doesn’t compromise privacy.
 
@@ -66,6 +70,10 @@ How can we improve resource and information sharing within a local community & w
 -Group debrief<br/>
 -Exit interview<br/>
 
+#### Participant Observation
+![Prototype 1](../../../img/week-5/xxx.png)
+![Prototype 1](../../../img/week-5/xxx.png)
+
 #### What we saw
 People prefer reaching out to friends and neighbors before strangers when looking for help.
 
@@ -80,6 +88,10 @@ Do individuals feel more comfortable requesting favors from strangers in close p
 -Individual scavenger hunt activity<br/>
 -Think aloud<br/>
 -Exit interview<br/>
+
+#### Participant Observation
+![Prototype 1](../../../img/week-5/xxx.png)
+![Prototype 1](../../../img/week-5/xxx.png)
 
 #### What we saw
 Personal information is less important when evaluating crowd-sourced information.
