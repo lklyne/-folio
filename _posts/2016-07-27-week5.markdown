@@ -3,21 +3,24 @@ layout: post
 title:  week 5 - prototyping
 date:   2016-07-27
 description: prototyping and piloting
-published: false
+published: true
 ---
 ## Schedule  
 
 #### Monday
-
-#### Tuesday
-
-#### Wednesday
 Team consultation with the Safe Walk team  
   
 In the team consultation both our team and Safe Walk shared and gave feedback on our prototyping plan. 
 The Safe Walk team surprisingly had a similar direction of a location based social application. 
 Part of the feedback we received was to consider if our design could belong to an existing social platform.
- Additionally, they had difficulty understanding how the design related back to our topic. 
+Additionally, they had difficulty understanding how the design related back to our topic. We responded to the feedback
+by discussing as a group how we could incorporate prototyping activities that could better evaluate and clarify our 
+ thinking on how our concept would work in a disaster scenario. We also discussed how which existing social platforms
+ might be integrate well with our design.
+
+#### Tuesday
+
+#### Wednesday
 
 
 #### Thursday
