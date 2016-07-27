@@ -54,15 +54,17 @@ Is there a balance between information that people are comfortable disclosing an
 -Card sorting by personal information sensitivity and importance to evaluate trust<br/>
 -Exit interview<br/>
 
-#### Participants
-![Prototype 1](../../../img/week-5/lizzie2.jpg)
-![Prototype 1](../../../img/week-5/ashley2.jpg)
+#### Participant Observation
+![Prototype 1](../../../img/week-5/lizzie1.png)
+![Prototype 1](../../../img/week-5/ashley1.png)
+![Prototype 1](../../../img/week-5/jeremy1.png)
+![Prototype 1](../../../img/week-5/jeremy2.png)
 
 #### What we saw
-Information about mutual friends is great for building trust, and sharing this information doesn’t compromise privacy.
+Information about mutual friends is great for building trust, and sharing this information doesn’t compromise privacy. Personal information is less important when evaluating crowd-sourced information.
 
 #### Why this is important and what we plan to do about it
-Allow for a public and private profile, and include mutual friends in the public profile.
+Allow for a public and private profile, and include mutual friends in the public profile. Channels that are only information seeking should display only public user profiles.
 
 ## Prototype 2 - Supply & Collaboration
 
@@ -85,10 +87,10 @@ In the next round of this activity, the group will be asked to collaborate via a
 ![Prototype 1](../../../img/week-5/camping-activity.jpg)
 
 #### What we saw
-People prefer reaching out to friends and neighbors before strangers when looking for help.
+With remote resource planning, there are lots of small bits of information that need group consensus or multiple individual responses.
 
 #### Why this is important and what we plan to do about it
-Highlight strong and loose connections that are nearby in addition to showing strangers.
+Provide a simple list feature directly tailored to remote collaboration with affordances for achieving consensus.
 
 ## Prototype 3 - Location-Based Group Chat
 
@@ -99,16 +101,16 @@ Do individuals feel more comfortable requesting favors from strangers in close p
 -Think aloud<br/>
 -Exit interview<br/>
 
-#### Participants
-![Prototype 1](../../../img/week-5/lizzie1.jpg)
-![Prototype 1](../../../img/week-5/ashley1.jpg)
+#### Participant Observation
+![Prototype 3](../../../img/week-5/lizzie2.png)
+![Prototype 3](../../../img/week-5/ashley2.png)
+![Prototype 3](../../../img/week-5/lyle1.png)
 
 #### What we saw
-Personal information is less important when evaluating crowd-sourced information.
+People prefer reaching out to friends and neighbors before strangers when looking for help. People are more willing to share personal information, such as their current location, in the event of a crisis.
 
 #### Why this is important and what we plan to do about it
-Channels that are only information seeking should display only public user profiles.
-
+Highlight strong and loose connections that are nearby in addition to showing strangers. Hide people’s current location in all cases, unless the user gives explicit permission (such as in a closed group of friends or crisis).
 
 ## Moving forward
 In the coming weeks, we plan to do the following tasks, in this order:
