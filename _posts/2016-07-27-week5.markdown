@@ -53,8 +53,15 @@ How comfortable are people sharing personal information about themselves & how d
 
 ## Prototype 2 - Supply & Collaboration
 
-#### Research Question + Activity Summary
+#### Research Question
 How can we improve resource and information sharing within a local community & where do existing tools fall short in collaborative decision making?
+
+
+#### Activity Summary
+A group-based planning and supply activity. A group of 4-6 people will be asked to coordinate a camping trip. In the pilot version of the activity, the group was asked to complete this task with one member acting as the group leader. The leader was given a short checklist and asked to document the planning process using pen and paper. 
+
+In the next round of this activity, the group will be asked to collaborate via a chat tool and use a shared Google doc for note taking.
+
 
 -Collaborative group activity<br/>
 -Group debrief<br/>
