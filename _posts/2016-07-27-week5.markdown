@@ -54,9 +54,9 @@ Is there a balance between information that people are comfortable disclosing an
 -Card sorting by personal information sensitivity and importance to evaluate trust<br/>
 -Exit interview<br/>
 
-#### Participant Observation
-![Prototype 1](../../../img/week-5/lizzie2.png)
-![Prototype 1](../../../img/week-5/ashley2.png)
+#### Participants
+![Prototype 1](../../../img/week-5/lizzie2.jpg)
+![Prototype 1](../../../img/week-5/ashley2.jpg)
 
 #### What we saw
 Information about mutual friends is great for building trust, and sharing this information doesn’t compromise privacy.
